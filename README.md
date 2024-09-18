@@ -1,4 +1,4 @@
-# Introductie-3---Rekenen# Introductie 3 - Rekenen
+# Introductie 3 - Rekenen
 
 - Maak een console applicatie die de gebruiker vraagt om 2 gehele getallen in te geven.
 - Toon vervolgens de som, het verschil, het product en de deling van deze getallen.
